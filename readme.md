@@ -73,14 +73,6 @@ Because we join all subtasks in this shared task, each subject there are a diffe
 
 In bellow tabel we show our detail syntax for final prompting in three techniques Zero-shot, One-shot and Chain of thought with 6 strategy for task 1, and subtask 2a in English. Three-shot prompting, subtask 2b in English, and Task 2 in Spanish are not presented in this table. But it's easy to deduce based on the pre-defined variables and syntax we've provided.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
