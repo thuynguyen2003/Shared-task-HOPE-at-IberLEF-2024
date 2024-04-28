@@ -35,7 +35,7 @@ Because we join all subtasks in this shared task, each subject there are a diffe
       </P>
 - **Role: role defined for all subtasks**\
    You are an NLP engineer expert as a language specialist. You are labeling to create a dataset for the Hope Speech Detection task.
-- **Few-shot: **
+- **Few-shot:**
 
   - **one-shot_1: one demonstration for task 1**
       <P>Tweet: “Hay que tratar de aislar democrÃ¡ticamente los argumentos polÃ­ticos que justifican a machistas, xenÃ³fobos, racistas y las expresiones de odio a los colectivos LGTBI. El odio genera violencia y la violencia no tiene medida en sus consecuencias”  <br>
